@@ -1,0 +1,15 @@
+1 - Estruturar a interface gráfica --- OK
+2 - Criar a comunicação entre as classes e os botões ---- OK
+3 - Calcular as expressões a partir das entradas ----- OK
+4 - Atribuir valores as variaveis --- OK
+	- Mais de uma atribuição -- OK
+	- Limpar ou não os históricos -- OK
+5 - Estudar sobre a sympy ----- ok
+6 - Balanceamento de parenteses ----- OK
+7 - Tratamento de excessões ----- OK
+8 - Brackets and Curly Brackets ----- OK
+9 - Mensagens de erro ----- OK
+10 - Comentar o Código ----- OK
+11 - Lista de exemplos para operações ----
+12 - Gerar executável ------
+

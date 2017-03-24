@@ -1,0 +1,13 @@
+Commands to install PyQT4
+
+1 - apt-cache search pyqt
+2 - sudo apt-get install python-qt4
+
+3 - sudo apt-get install python-qt4-doc - Examples
+4- /usr/share/doc/python-qt4-doc/examples
+
+
+5 - sudo apt-get install pyqt4-dev-tools - To convert .ui files to .py files.
+
+6 - pyui4 input.ui -o output.py "-x, caso queira gerar um executável"
+
