@@ -1,6 +1,6 @@
 import re
 import sympy as sp
-from balanceamento import *
+from balancing import *
 from brackets import *
 
 lista = []

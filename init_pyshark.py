@@ -2,7 +2,7 @@ from PyQt4 import QtCore, QtGui
 import sys
 from calculator import Ui_MainWindow # Importa todos os recursos graficos do QT
 from brackets import *
-from balanceamento import * #Classe responsavel pela analise do balanceamento dos parenteses
+from balancing import * #Classe responsavel pela analise do balanceamento dos parenteses
 import sympy as sp #modulo sympy, responsavel pelo calculo das expressoes
 import re #Modulo regular expression, responsavel pela analise lexica das expressoes
 
