@@ -1,7 +1,7 @@
 <div align="center"><img src="https://github.com/matheusns/Pyshark-Calculator/blob/master/icons/shark-305004_640.png"></div> 
 
 <p align="center">
-    <font size="24"><b>Pyshark-Calculator</b></font>
+    <b><font size="24">Pyshark-Calculator</font></b>
 </p>
 
 <p align="justify">
@@ -10,7 +10,7 @@ Pyshark is an open source scientific calculator, that can help out students and 
 <div align="center"><img src="https://github.com/matheusns/Pyshark-Calculator/blob/master/images/main_page.png"></div> 
 
 <p align="center">
-    <font size="24">Pyshark-Calculator main page.</font>
+    <font size="24">Figure 1 - Pyshark-Calculator main page.</font>
 </p>
 
 
